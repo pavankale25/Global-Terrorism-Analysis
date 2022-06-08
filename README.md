@@ -4,3 +4,10 @@ The Global Terrorism Database (GTD) is an open-source database including informa
 
 # Data Summary :
 In this dataset 181691 rows and 135 columns are present
+
+# Conclusion :
+1. Most Active Terrorist Organization are Taliban and Islamic State of Iraq and the Levant(ISIL).
+2. Private Citizens & Property And Militrary is the Main Target of Terrorist.
+3. In 2014 Maximum people died in Terrorist Attack.
+4. Maximum Number Of 'Firearms Weapon' are used for Terrorist Attack.
+5. Iraq ranked first on terrorist activity and Middle East & North Africa And South Asia has most Terrorist region.
